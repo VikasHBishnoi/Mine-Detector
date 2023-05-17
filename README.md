@@ -1,4 +1,4 @@
-Sonar Object Classification using Logistic Regression
+** Sonar Object Classification using Logistic Regression **
 This repository contains a logistic regression-based machine learning model that classifies objects as either stones or mines based on sonar details.
 
 Dataset
